@@ -1,0 +1,6 @@
+StarTrek,James T. Kirk,110,354,1000,1
+StarWars,Luke Skywalker,400,550,0,The force will be with you, always.
+StarTrek,Kathryn Janeway,256,578,3000,1
+StarWars,Dengar,700,300,0,They aren't paying me enough for this.
+StarWars,Rey,400,700,1,Good shot!
+StarTrek,Red Shirt Guy,3,1,10,0

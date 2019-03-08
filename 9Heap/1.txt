@@ -1,0 +1,6 @@
+ground,toys,north pole
+whenever,taxes,Washington D.C.
+overnight,trophy,North Carolina
+2-Day,books,Rome Italy
+overnight,gazpacho,Madrid Spain
+TRUCK,3
